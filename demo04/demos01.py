@@ -8,4 +8,4 @@ def login(user, password):
 
 db = {}
 def register(username, password):
-    db{username} = get_md5(password + username + 'the-Salt')
+    pass
