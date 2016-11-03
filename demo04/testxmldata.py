@@ -15,7 +15,7 @@ class DefaultSaxHandler(object):
 xml = r'''<?xml version="1.0"?>
 <ol>
     <li>
-        <a href = "http://weather.yahooapis.com/forecastrss?u=c&w=320100">Nanjing</a>
+        <a href = "http://www.weather.com.cn/weather/101190101.shtml?from=baidu">Nanjing</a>
     </li>
 </ol>
 '''
