@@ -9,9 +9,11 @@ import random
 def rndChar():
     return chr(random.randint(65, 90))
 
+
 # randomColor1
 def rndColor1():
     return random.randint(64, 255), random.randint(64, 255), random.randint(64, 255)
+
 
 # randomColor2
 def rndColor2():
